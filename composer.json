@@ -1,5 +1,5 @@
 {
-  "name": "markfullmer/composer_semver_tester",
+  "name": "utexas/composer_semver_tester",
   "description": "A tool for testing version constraints",
   "type": "library",
   "license": "MIT",
